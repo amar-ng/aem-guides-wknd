@@ -8,6 +8,7 @@
 
 ### Maven ###
 target/
+pom.xml.tag
 
 ### Vault ###
 .vlt
@@ -15,3 +16,37 @@ target/
 
 ### Hidden ###
 .DS_Store
+
+### IntelliJ ###
+.idea/
+*.iml
+*.log
+all/target/
+all/target/aem-guides-wknd.all-0.0.1-SNAPSHOT.zip
+all/target/vault-work/META-INF/vault/properties.xml
+core/target/aem-guides-wknd.core-0.0.1-SNAPSHOT.jar
+core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+core/target/surefire-reports/com.adobe.aem.guides.wknd.core.filters.LoggingFilterTest.txt
+core/target/surefire-reports/com.adobe.aem.guides.wknd.core.listeners.SimpleResourceListenerTest.txt
+core/target/surefire-reports/com.adobe.aem.guides.wknd.core.models.HelloWorldModelTest.txt
+core/target/surefire-reports/com.adobe.aem.guides.wknd.core.schedulers.SimpleScheduledTaskTest.txt
+core/target/surefire-reports/com.adobe.aem.guides.wknd.core.servlets.SimpleServletTest.txt
+core/target/surefire-reports/TEST-com.adobe.aem.guides.wknd.core.filters.LoggingFilterTest.xml
+core/target/surefire-reports/TEST-com.adobe.aem.guides.wknd.core.listeners.SimpleResourceListenerTest.xml
+core/target/surefire-reports/TEST-com.adobe.aem.guides.wknd.core.models.HelloWorldModelTest.xml
+core/target/surefire-reports/TEST-com.adobe.aem.guides.wknd.core.schedulers.SimpleScheduledTaskTest.xml
+core/target/surefire-reports/TEST-com.adobe.aem.guides.wknd.core.servlets.SimpleServletTest.xml
+it.tests/target/aem-guides-wknd.it.tests-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+it.tests/target/aem-guides-wknd.it.tests-0.0.1-SNAPSHOT.jar
+it.tests/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ui.apps.structure/target/aem-guides-wknd.ui.apps.structure-0.0.1-SNAPSHOT.zip
+ui.apps.structure/target/vault-work/META-INF/vault/properties.xml
+ui.apps/target/aem-guides-wknd.ui.apps-0.0.1-SNAPSHOT.zip
+ui.apps/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ui.apps/target/vault-work/META-INF/vault/properties.xml
+ui.config/target/aem-guides-wknd.ui.config-0.0.1-SNAPSHOT.zip
+ui.config/target/vault-work/META-INF/vault/properties.xml
+ui.content/target/aem-guides-wknd.ui.content-0.0.1-SNAPSHOT.zip
+ui.content/target/vault-work/META-INF/vault/properties.xml
+ui.frontend/target/aem-guides-wknd.ui.frontend-0.0.1-SNAPSHOT.zip
