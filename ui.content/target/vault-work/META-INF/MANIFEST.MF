@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND Sites Project - UI content
+Content-Package-Roots: /conf/wknd,/content/dam/wknd/asset.jpg,/content
+ /experience-fragments/wknd,/content/wknd
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Dependencies-Locations: com.adobe.aem.guides:aem-guide
+ s-wknd.ui.apps:0.0.1-SNAPSHOT=maven:com.adobe.aem.guides:aem-guides-w
+ knd.ui.apps:0.0.1-SNAPSHOT:zip
+Content-Package-Dependencies: com.adobe.aem.guides:aem-guides-wknd.ui.
+ apps:0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Content-Package-Type: content
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Content-Package-Id: com.adobe.aem.guides:aem-guides-wknd.ui.content:0.
+ 0.1-SNAPSHOT
+Content-Package-Description: UI content package for WKND Sites Project
+
